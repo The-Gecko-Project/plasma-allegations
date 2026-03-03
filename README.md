@@ -5,6 +5,8 @@ Since the 1970s, as corporate-run palm oil plantations spread across Indonesia, 
 
 During our field reporting in Indonesia’s palm oil heartlands, we repeatedly encountered allegations that companies were failing to deliver. Local media reports from Sulawesi to Sumatra told a similar story, with a steady stream of appeals to government, protests, direct action and sometimes even violence, due to simmering conflicts over plasma.
 
+![Plasma protests](https://thegeckoproject.org/static/41227636eb654afd7133edb65f0d34cd/a878e/promise-lie-plasma-protests-2019-2021-photos.png)
+
 When we began to investigate this in earnest, one of the key questions we sought to answer was just how widespread this problem was. It soon became clear that government monitoring was patchy and unreliable. Government agencies themselves openly acknowledged the flaws in their data. Most palm oil producers declined to share data that would enable us to interrogate their claims that they were complying with the law.
 
 As it became apparent that there was no definitive, reliable dataset, the potential utility of the local media reports grew into sharper relief. We began to compile them into a database, comprising every public report we could find of a plasma-related dispute. As well as local news stories, the database incorporated reports by credible nonprofits, government agencies and national publications. 
@@ -12,10 +14,16 @@ As it became apparent that there was no definitive, reliable dataset, the potent
 While we eventually sent reporters to 27 cases to investigate them in greater depth, it was beyond the scope of our investigation to verify all of the allegations in the database. The data complemented, rather than replaced, the shoe-leather reporting that formed the foundation of our investigation. 
 Coding the cases by date, location, the company involved and various other typologies gave us insights into broader trends. We could see where allegations were occurring; where cases were escalating into protests; and which corporations were facing particularly high numbers of allegations. 
 
+![Map](https://thegeckoproject.org/static/369e290f8237093c3356f4547aa88c20/plasma-data-bar-chart.gif)
+
 ## Methods
 To allow us to analyse how trends in conflicts over plasma were shifting over time, we included allegations made between January 2012 and May 2022, when the results of our investigation were first published. We excluded any cases where the nature of the allegation was unclear; the identity of the company facing the allegation was unclear; there was evidence the problem had been resolved; or we felt the article was of insufficient quality to merit inclusion. The dataset ultimately expanded to more than 200 individual cases. 
 
 The database helped us to identify two main categories of allegation that were being levelled at companies. First, that companies had allegedly promised plasma, or were legally required to provide it, but had never done so. Second, that the plasma did exist, but communities were receiving inadequate profits from it (see this post for a more detailed explanation of this second category). We also used the dataset to target our field reporting, conduct additional analysis and present our findings visually.
+
+![Map of protests](https://thegeckoproject.org/static/b9d5f82dbd2a1b5c08ba82704d0dc3aa/plasma-data-protests-map.gif)
+
+![Bar chart](https://thegeckoproject.org/static/1165184f29aa4c4cf7676155885667fc/536c7/promise-lie-consumer-firms-corporate-allegations-chart.png)
 
 ## Limitations
 
