@@ -19,9 +19,9 @@ Coding the cases by date, location, the company involved and various other typol
 ## Methods
 To allow us to analyse how trends in conflicts over plasma were shifting over time, we included allegations made between January 2012 and May 2022, when the results of our investigation were first published. We excluded any cases where the nature of the allegation was unclear; the identity of the company facing the allegation was unclear; there was evidence the problem had been resolved; or we felt the article was of insufficient quality to merit inclusion. The dataset ultimately expanded to more than 200 individual cases. 
 
-The database helped us to identify two main categories of allegation that were being levelled at companies. First, that companies had allegedly promised plasma, or were legally required to provide it, but had never done so. Second, that the plasma did exist, but communities were receiving inadequate profits from it (see this post for a more detailed explanation of this second category). We also used the dataset to target our field reporting, conduct additional analysis and present our findings visually.
-
 ![Map of protests](https://thegeckoproject.org/static/b9d5f82dbd2a1b5c08ba82704d0dc3aa/plasma-data-protests-map.gif)
+
+The database helped us to identify two main categories of allegation that were being levelled at companies. First, that companies had allegedly promised plasma, or were legally required to provide it, but had never done so. Second, that the plasma did exist, but communities were receiving inadequate profits from it (see this post for a more detailed explanation of this second category). We also used the dataset to target our field reporting, conduct additional analysis and present our findings visually.
 
 ![Bar chart](https://thegeckoproject.org/static/1165184f29aa4c4cf7676155885667fc/536c7/promise-lie-consumer-firms-corporate-allegations-chart.png)
 
